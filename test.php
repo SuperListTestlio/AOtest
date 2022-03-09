@@ -3,7 +3,7 @@
  * OPML Parser
  *
  * @author Clint Ecker <phaedo@phaedo.cx>
- * @copyright Copyright (c) 2003 The MIT License
+ * @copyright Copyright (c) 2022 Changes Made The MIT License
  * @version 1.0.2
  * @package External
  * @subpackage OPML Parser
