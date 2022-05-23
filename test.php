@@ -7,6 +7,7 @@
  * @version 1.0.2
  * @package External
  * @subpackage OPML Parser
+ * updated
  */
 
 class OPML {
