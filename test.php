@@ -7,8 +7,8 @@
  * @version 1.0.2
  * @package External
  * @subpackage OPML Parser
+ * updated
  */
-
 class OPML {
 	var $file;
 	var $feeds;
@@ -22,7 +22,7 @@ class OPML {
 	function parseOPMLtoArray() {
 		$parser = xml_parser_create();
 		$data = implode('', file($this->file));
-		xml_parse_into_struct($parser,$data,$d_ar,$i_ar);
+		xml_parse_into_struct($parse,$data,$d_ar,$i_ar);
 
 		foreach($d_ar as $element) {
 			if($element['tag'] == 'OUTLINE') {
