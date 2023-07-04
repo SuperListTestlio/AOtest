@@ -7,3 +7,4 @@ c
 sdc
 TETETETETTETETET
 Testing
+testing disconnection
