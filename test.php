@@ -6,7 +6,7 @@
  * @copyright Copyright (c) 2003 The MIT License
  * @version 1.0.2
  * @package External
- * @subpackage OPML Parser
+ * @subpackage OPML PARECERO
  */
 
 class OPML {
