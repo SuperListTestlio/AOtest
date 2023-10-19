@@ -33,7 +33,12 @@ class OPML {
 	}
 
 	function load() {
+<<<<<<< Updated upstream
 		echo "<a href=\"$path_to_opml/". basename($this->file) . "\">Download OPML File</a>";
+=======
+		echo "<a href=\"$path_to_opml/". basename($this->file) . "\">Download OPML File2</a>";
+>>>>>>> Stashed changes
 	}
 }
 ?>
+chngs made
